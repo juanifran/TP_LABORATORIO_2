@@ -1,0 +1,5 @@
+C:\Users\dannycarlifornia\Downloads\tp1 ultima version\TP_n1\Entidades\bin\Debug\Entidades.dll
+C:\Users\dannycarlifornia\Downloads\tp1 ultima version\TP_n1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dannycarlifornia\Downloads\tp1 ultima version\TP_n1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dannycarlifornia\Downloads\tp1 ultima version\TP_n1\Entidades\obj\Debug\Entidades.dll
+C:\Users\dannycarlifornia\Downloads\tp1 ultima version\TP_n1\Entidades\obj\Debug\Entidades.pdb
